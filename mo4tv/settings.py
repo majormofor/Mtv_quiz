@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mo4tvquiz',        # your database name
         'USER': 'root',             # your MySQL username
-        'PASSWORD': 'Qwerty12345#',# your MySQL password
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '3306',
     }
